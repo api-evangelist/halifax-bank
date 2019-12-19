@@ -1,0 +1,56 @@
+{
+    "name": "Halifax Bank",
+    "description": "<p>Halifax is a British bank operating as a trading division of Bank of Scotland, itself a wholly owned subsidiary of Lloyds Banking Group. It is named after the town of Halifax, West Yorkshire where it was founded as a building society in 1853<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Halifax_Logo.png",
+    "tags": [
+        "api provider",
+        "banking",
+        "general data",
+        "have api",
+        "relative data",
+        "uk banks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/halifax-bank\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Halifax Bank",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Halifax_Logo.png",
+            "humanURL": "https:\/\/www.halifax.co.uk\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/halifax-bank-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/halifax-bank.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/halifax-bank-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/openbankingapis.io\/uk\/halifax"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/openbanking.atlassian.net\/wiki\/spaces\/DZ\/pages\/54919225\/Open+Data+API+Dashboard#"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.halifax.co.uk\/"
+        }
+    ]
+}
