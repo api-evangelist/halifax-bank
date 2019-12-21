@@ -1,5 +1,5 @@
 {
-    "id": "05b9028a194da930cdd9e7e50d11ea6e",
+    "id": "5b51a7a66b735623c1fc1ca70d923b9e",
     "name": "Halifax Bank",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "6fb7e2b8fddef34cacf3309532e88e95",
+            "id": "e110ceb5387f2dfe4a62d9d31054f30f",
             "name": "Get ATMs",
             "url": "httpsapi.halifax.co.ukopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "05b9028a194da930cdd9e7e50d11ea6e",
+            "collectionId": "5b51a7a66b735623c1fc1ca70d923b9e",
             "rawModeData": ""
         },
         {
-            "id": "7b7e1e0c21d9d813fb6c976693066ae7",
+            "id": "635dedf301e09a48e509ac40cd5ddc90",
             "name": "Get Branches",
             "url": "httpsapi.halifax.co.ukopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "05b9028a194da930cdd9e7e50d11ea6e",
+            "collectionId": "5b51a7a66b735623c1fc1ca70d923b9e",
             "rawModeData": ""
         },
         {
-            "id": "7a37b6f881fdb6eb1a06d6683d5e9d91",
+            "id": "f0bccb029b1fa3149b8a4112487430c1",
             "name": "Get Current Personal Accounts",
             "url": "httpsapi.halifax.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,7 +75,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "05b9028a194da930cdd9e7e50d11ea6e",
+            "collectionId": "5b51a7a66b735623c1fc1ca70d923b9e",
             "rawModeData": ""
         }
     ]
